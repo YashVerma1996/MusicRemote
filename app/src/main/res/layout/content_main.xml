@@ -35,6 +35,6 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Stop"
-        android:id="@+id/stop"/>
+        android:text="Use As Remote"
+        android:id="@+id/useAsRemoteButton"/>
 </LinearLayout>
